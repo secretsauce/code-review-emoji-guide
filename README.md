@@ -25,6 +25,7 @@ Using CREG (Code Review Emoji Guide) puts a little bit more ownership on the rev
 | 🚚  | `:truck:`  | The naming of this statement (ie. const, var, function, etc.) is not declarative and needs to be renamed (moved). Try to be clear about what this is doing, avoid using acronyms or short names. |
 | 👾  | `:space_invader:` | The formatting of the code has either too little or too many spaces (or blank lines) and makes it hard to read. |
 | ✅ | `:white_check_mark:` | This needs tests. Enough said. |
+| 💄 | `:lipstick:` | The formating of this code or UI is not the best and could be done in a different way. Please consider updating it. |
 | 🌅 | `:sunrise:` | Return early, use [guard clauses](https://refactoring.com/catalog/replaceNestedConditionalWithGuardClauses.html). [Exiting early allows you to pop stuff off your limited mental stack.](https://softwareengineering.stackexchange.com/questions/18454/should-i-return-from-a-function-early-or-use-an-if-statement#comment27703_18459)  |
 
 
