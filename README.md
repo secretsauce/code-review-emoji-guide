@@ -27,7 +27,7 @@ Using CREG (Code Review Emoji Guide) puts a little bit more ownership on the rev
 | ✅ | `:white_check_mark:` | This needs tests. Enough said. |
 | 💄 | `:lipstick:` | The formating of this code or UI is not the best and could be done in a different way. Please consider updating it. |
 | 🌅 | `:sunrise:` | Return early, use [guard clauses](https://refactoring.com/catalog/replaceNestedConditionalWithGuardClauses.html). [Exiting early allows you to pop stuff off your limited mental stack.](https://softwareengineering.stackexchange.com/questions/18454/should-i-return-from-a-function-early-or-use-an-if-statement#comment27703_18459)  |
-
+| 💀 | `:skull:` | The code here is commented out or looks like dead code. Please remove it or make it usable. |
 
 ## Usage
 
